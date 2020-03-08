@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-quiz-app/static/css/main.7d41335a.chunk.css",
-    "main.js": "/react-quiz-app/static/js/main.7f018b54.chunk.js",
-    "main.js.map": "/react-quiz-app/static/js/main.7f018b54.chunk.js.map",
+    "main.js": "/react-quiz-app/static/js/main.a2940669.chunk.js",
+    "main.js.map": "/react-quiz-app/static/js/main.a2940669.chunk.js.map",
     "runtime-main.js": "/react-quiz-app/static/js/runtime-main.2b2f3000.js",
     "runtime-main.js.map": "/react-quiz-app/static/js/runtime-main.2b2f3000.js.map",
-    "static/js/2.aa01a76e.chunk.js": "/react-quiz-app/static/js/2.aa01a76e.chunk.js",
-    "static/js/2.aa01a76e.chunk.js.map": "/react-quiz-app/static/js/2.aa01a76e.chunk.js.map",
+    "static/js/2.fec9ea2b.chunk.js": "/react-quiz-app/static/js/2.fec9ea2b.chunk.js",
+    "static/js/2.fec9ea2b.chunk.js.map": "/react-quiz-app/static/js/2.fec9ea2b.chunk.js.map",
     "index.html": "/react-quiz-app/index.html",
-    "precache-manifest.b0635c4c9ce8de8d7f13b404ae479d87.js": "/react-quiz-app/precache-manifest.b0635c4c9ce8de8d7f13b404ae479d87.js",
+    "precache-manifest.9d14a36cfb48d581e8864a8fa453f6ab.js": "/react-quiz-app/precache-manifest.9d14a36cfb48d581e8864a8fa453f6ab.js",
     "service-worker.js": "/react-quiz-app/service-worker.js",
     "static/css/main.7d41335a.chunk.css.map": "/react-quiz-app/static/css/main.7d41335a.chunk.css.map",
-    "static/js/2.aa01a76e.chunk.js.LICENSE.txt": "/react-quiz-app/static/js/2.aa01a76e.chunk.js.LICENSE.txt"
+    "static/js/2.fec9ea2b.chunk.js.LICENSE.txt": "/react-quiz-app/static/js/2.fec9ea2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b2f3000.js",
-    "static/js/2.aa01a76e.chunk.js",
+    "static/js/2.fec9ea2b.chunk.js",
     "static/css/main.7d41335a.chunk.css",
-    "static/js/main.7f018b54.chunk.js"
+    "static/js/main.a2940669.chunk.js"
   ]
 }
